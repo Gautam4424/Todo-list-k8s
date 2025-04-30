@@ -52,9 +52,9 @@ After running this command, the Django app will be accessible at http://localhos
 Clone this repository to your local machine:
 
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Gautam4424/Todo-list-k8s.git
 
-cd yourrepository
+cd Todo-list-k8s
 
 This command will clone the repository to your local machine so you can begin working with the files.
 
